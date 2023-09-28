@@ -1,0 +1,7 @@
+{
+    "supportFile": "cypress/support/commands.js",
+    "baseUrl": "https://www.myntra.com/home-furnishing?src=bc",
+    "viewportWidth": 1366,
+    "viewportHeight": 768
+  }
+  
